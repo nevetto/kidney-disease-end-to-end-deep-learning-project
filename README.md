@@ -14,6 +14,8 @@
 9. Update the dvc.yaml
 10. app.py
 
+DataSet : https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+
 # How to run?
 ### STEPS:
 
@@ -21,11 +23,11 @@
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n venv python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate venv/
 ```
 
 
